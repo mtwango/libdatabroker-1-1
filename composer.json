@@ -1,0 +1,14 @@
+{
+    "name": "wow/libdatabroker",
+    "description": "xxxx",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "a",
+            "email": "test@test.test",
+            "homepage": "https://www.github.com",
+            "role": "Developer"
+        }
+    ]
+}
