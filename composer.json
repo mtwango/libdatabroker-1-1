@@ -1,7 +1,7 @@
 {
     "name": "wow/libdatabroker",
     "description": "xxxx",
-    "type": "project",
+    "type": "wow-library",
     "license": "proprietary",
     "authors": [
         {
